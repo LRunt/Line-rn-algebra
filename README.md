@@ -1,3 +1,4 @@
 # Linearni-algebra
-Linearni algebra - Zapocet ziskan <br>
-Seminar maticoveho poctu - Splneno
+Linearni algebra - Splněno - Dobře (3) <br>
+Seminar maticoveho poctu - Splneno <br> <br>
+<b>Poznamka</b>
